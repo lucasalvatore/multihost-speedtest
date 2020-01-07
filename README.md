@@ -1,4 +1,4 @@
-*Usage*
+**Usage** <br>
 Requirments = python3<br>
 looks for a file called "test-servers" <br>
 The file should contain a list of speedtest.net server IDs<br>
